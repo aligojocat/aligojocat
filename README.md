@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aligojocat
 - 👀 I’m interested in Computer Science 💻 and Music 🎼
 - 🌱 I’m currently learning HTML CSS
-- ⚡ Fun fact: I can hang on the monkey bar with one leg :)
-- I play the clarinet 🎵
+- Funfact: I play the clarinet 🎵
